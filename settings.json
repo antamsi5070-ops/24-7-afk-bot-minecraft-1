@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lolalex001-xmzm.aternos.me
-",
+    "ip": "lolalex001-xmzm.aternos.me",
     "port": 52210,
     "version": "1.20.1",
     "try-creative": false
